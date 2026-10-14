@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+.venv-1/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.vscode/
+data/issues.json
